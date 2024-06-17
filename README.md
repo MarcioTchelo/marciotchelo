@@ -1,6 +1,6 @@
 ### Olá Eu sou Marcio Tchelo 👋
 
-- 🔭 Hoje trabalho com front-end
+- 🔭 Hoje trabalho como Analista Comercial 
 - 🌱 Estudando React Native
 - 😄 Pronouns: ele/dele
   
